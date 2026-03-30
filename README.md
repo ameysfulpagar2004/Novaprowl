@@ -1,4 +1,4 @@
-# 🚀 NovaProwl – AI-Powered B2B Analytics Platform
+# NovaProwl – AI-Powered B2B Analytics Platform
 
 NovaProwl is an AI-driven analytics platform designed to transform raw business data into actionable insights through automated dashboards and a “chat with data” interface.
 
@@ -6,7 +6,7 @@ It enables non-technical users to interact with data using natural language quer
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Businesses rely heavily on manual reporting using spreadsheets, which leads to:
 - Time-consuming analysis
@@ -17,7 +17,7 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 - 📊 Automated Dashboard Generation  
 - 💬 Chat with Data (Natural Language Queries)  
@@ -27,7 +27,7 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## 🛠️ My Contributions
+## My Contributions
 
 - Developed the **AI chat system** to query datasets using natural language  
 - Built data pipelines for **cleaning, processing, and transforming CSV/Excel data**  
@@ -38,7 +38,7 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## 📊 Impact
+## Impact
 
 - Reduced manual reporting efforts for business users  
 - Enabled faster, data-driven decision-making  
@@ -47,7 +47,7 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **Languages:** Python, JavaScript  
 - **AI/ML:** LLM Integration, Prompt Engineering, RAG  
@@ -58,7 +58,7 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## 🏗️ System Overview
+## System Overview
 
 1. User uploads CSV/Excel data  
 2. Data is cleaned and processed  
@@ -69,7 +69,7 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Add your screenshots here
 
@@ -79,14 +79,14 @@ NovaProwl solves this by enabling **self-service analytics** through automation 
 
 ---
 
-## ⚠️ Note
+## Note
 
 This repository contains a simplified version of the project for demonstration purposes.  
 The complete production-level implementation is not publicly available due to confidentiality.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Real-time data streaming  
 - Advanced forecasting models  
